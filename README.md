@@ -1,4 +1,11 @@
 # TwitterClass
-A simple Twitter Class that is serializable-- apart of SMACKTest Bundle
+A simple Twitter Class that is serializable
 
-(Note this is thrown into both parts already as building a maven repo for this single jar seemed excessive)
+# SMACKTest bundle
+https://github.com/armaanaki/TwitterClass
+
+https://github.com/armaanaki/SparkToCassandra
+
+https://github.com/armaanaki/KafkaTwitterStream
+
+(Note this is inserted into both SparkToCassandra and KafkaTwitterStream already as building a maven repo for this single jar seemed excessive for pure testing purposes)
